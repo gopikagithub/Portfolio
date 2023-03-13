@@ -1,0 +1,22 @@
+.education-container{
+    
+    height: 100%;
+    padding-top: 100px;
+    width: 100%;
+    h1{
+    text-align: center;
+    }
+    span{
+        color: var(--yellow);
+    }
+    ul{
+        padding-left: 50px;
+        line-height: 50px;
+        margin-top: 80px;
+        font-size:25px;
+        span{
+            font-weight: 800;
+            color: black;
+        }
+    }
+}

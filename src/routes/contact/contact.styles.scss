@@ -1,0 +1,40 @@
+.contact-container{
+    height: 100px;
+    width: 100%;
+    padding-top: 50px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    h1{
+        text-align: center;
+    }
+    span {
+        color: var(--yellow);
+    }
+    
+}
+
+.contact-top-data{
+    font-size: 25px;
+    line-height: 80px;
+    height: 400px; 
+    padding: 80px;
+}
+    
+
+.contact-bottom-data {
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 400px;
+    a{
+        color: black;
+        text-decoration: underline;
+    }
+
+}
+
+

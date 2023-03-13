@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+  
+  }
+  :root{
+    --yellow:#c2ad60;
+    --background-color:linear-gradient(to bottom right,rgb(117, 105, 105),rgb(90, 116, 126)) ;
+  }
+  .app-container{
+    background-image:var(--background-color);
+    
+  }
+  
